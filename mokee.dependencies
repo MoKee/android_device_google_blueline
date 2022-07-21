@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_google_blueline",
+    "target_path": "vendor/google/blueline"
+  },
+  {
     "repository": "android_device_google_crosshatch",
     "target_path": "device/google/crosshatch"
   }
